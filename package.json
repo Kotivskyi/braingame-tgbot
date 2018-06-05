@@ -1,0 +1,24 @@
+{
+  "name": "braingame-tgbot",
+  "version": "1.0.0",
+  "description": "Brain Game implementation using Telegram Bot",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "telegraf": "^3.21.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kotivskyi/braingame-tgbot.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kotivskyi/braingame-tgbot/issues"
+  },
+  "homepage": "https://github.com/Kotivskyi/braingame-tgbot#readme"
+}
